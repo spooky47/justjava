@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Solo café jake</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="name">Escriba su nombre</string>
+    <string name="quantity">Cantidad</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="whippedcream">Crema batida</string>
+    <string name="cookies">Galletas</string>
+    <string name="cinnamon">Canela</string>
+</resources>

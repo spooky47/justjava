@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Java juste jake</string>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="name">Tapez votre nom ici</string>
+    <string name="quantity">Quantité</string>
+    <string name="toppings">Ingrédients</string>
+    <string name="chocolate">Chocolat</string>
+    <string name="whippedcream">Crème fouettée</string>
+    <string name="cookies">Biscuits</string>
+    <string name="cinnamon">Cannelle</string>
+</resources>
+
